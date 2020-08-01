@@ -1,0 +1,3 @@
+include ':neon'
+include ':app'
+rootProject.name = "Neon"
