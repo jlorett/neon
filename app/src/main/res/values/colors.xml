@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="magenta_200">#fb79f9</color> <!--Color primary (dark)-->
+    <color name="magenta_500">#e300e8</color> <!--Color primary (light)-->
+    <color name="magenta_600">#d100e5</color> <!--Color primary variant (dark)-->
+    <color name="magenta_700">#b700e1</color> <!--Color primary variant (light)-->
+    <color name="magenta_900">#7100d5</color> <!--Color primary variant (light)-->
+
+    <color name="cyan_200">#71ffff</color> <!--Color secondary-->
+    <color name="cyan_500">#00ccf3</color> <!--Color secondary variant-->
+    <color name="cyan_600">#00bcdf</color> <!--Color primary variant (dark)-->
+    <color name="cyan_700">#00a6c2</color> <!--Color primary variant (light)-->
+    <color name="cyan_900">#006e78</color>
+
+    <color name="red_200">#fa8ac9</color> <!--Color error (dark)-->
+    <color name="red_600">#f00082</color> <!--Color error (light)-->
+
+    <!--Color surface (light), color on error (light), -->
+    <!--color on surface (dark), color on surface (dark)-->
+    <color name="pale_cyan_50">#f4feff</color>
+
+    <color name="dark_blue_800">#232740</color> <!--Color surface (dark)-->
+    <!--Color on secondary (light), color on background (light),-->
+    <!--color on surface (light)-->
+    <color name="dark_blue_900">#00011f</color>
+
 </resources>
