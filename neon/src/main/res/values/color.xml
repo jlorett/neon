@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue_900">#00011f</color>
+    <color name="dark_blue_800">#232740</color>
+
+    <color name="cyan_50">#e0fffe</color>
+    <color name="cyan_100">#b0fffd</color>
+    <color name="cyan_200">#71ffff</color>
+    <color name="cyan_300">#00fcff</color>
+    <color name="cyan_400">#00f7fe</color>
+    <color name="cyan_500">#00f2ff</color>
+    <color name="cyan_600">#00e1eb</color>
+    <color name="cyan_700">#00cacf</color>
+    <color name="cyan_800">#00b4b6</color>
+    <color name="cyan_900">#008e87</color>
+
+    <color name="magenta_50">#fde4f4</color>
+    <color name="magenta_100">#f8bbe3</color>
+    <color name="magenta_200">#f28bd1</color>
+    <color name="magenta_300">#ea53bf</color>
+    <color name="magenta_400">#e300b2</color>
+    <color name="magenta_500">#da00a6</color>
+    <color name="magenta_600">#cb00a2</color>
+    <color name="magenta_700">#b8009d</color>
+    <color name="magenta_800">#a80099</color>
+    <color name="magenta_900">#89008f</color>
+
+    <color name="pale_cyan_50">#f4feff</color>
+
+    <color name="red_50">#fce2ed</color>
+    <color name="red_100">#f8b6d4</color>
+    <color name="red_200">#f485b6</color>
+    <color name="red_300">#f24d98</color>
+    <color name="red_400">#f00080</color>
+    <color name="red_500">#ef0067</color>
+    <color name="red_600">#de0064</color>
+    <color name="red_700">#c8005f</color>
+    <color name="red_800">#b3005c</color>
+    <color name="red_900">#8c0055</color>
+</resources>
