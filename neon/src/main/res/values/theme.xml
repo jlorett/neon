@@ -43,5 +43,6 @@
         <item name="bottomSheetDialogTheme">@style/ThemeOverlay.Neon.BottomSheetDialog</item>
         <item name="navigationViewStyle">@style/Widget.Neon.NavigationView</item>
         <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.Surface</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.Neon.Button.OutlinedButton</item>
     </style>
 </resources>

@@ -1,6 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!--Components-->
+    <style name="Widget.Neon.Button.OutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">?attr/colorPrimary</item>
+    </style>
 
     <!--Bottom Sheets-->
     <style name="ThemeOverlay.Neon.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.Dialog">
