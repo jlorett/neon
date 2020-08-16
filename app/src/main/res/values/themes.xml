@@ -3,5 +3,6 @@
     <style name="Theme.Sample" parent="Base.Theme.Sample"/>
     <!--Base custom theme which will be shared between both light and dark theme variants-->
     <style name="Base.Theme.Sample" parent="Theme.Neon">
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Sample.SmallComponent</item>
     </style>
 </resources>
