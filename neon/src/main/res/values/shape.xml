@@ -1,5 +1,6 @@
 <resources>
     <style name="ShapeAppearance.Neon.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">0dp</item>
     </style>
 
     <style name="ShapeAppearance.Neon.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
